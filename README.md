@@ -1,2 +1,2 @@
 # projectWDOLC
-yusfiadi.github.io/projectWDOLC/
+http://yusfiadi.github.io/projectWDOLC/
